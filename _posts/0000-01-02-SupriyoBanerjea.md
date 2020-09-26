@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"The Child is Father of the Man"
 Use the left arrow to go back!
